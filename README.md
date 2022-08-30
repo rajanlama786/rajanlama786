@@ -1,13 +1,10 @@
 ## Hi 👋, I'm a software engineer working in Lalitpur, Nepal
 
 <p align="left">
-  <a href="https://leetcode.com/user4398as/">
-    <img src="https://cp-logo.vercel.app/leetcode/rajanlama786" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/rajanlama786/">
+  <a href="https://rajanlama.com.np">
     <img src="https://raw.githubusercontent.com/rajanlama786/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/rajanlama786">
+  <a href="https://stackoverflow.com/users/6037636/rajan-lama">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/rajanlama786/?tab=followers">
@@ -21,9 +18,9 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in CRM Software Engineer;
-- :calendar: Looking for contributing to php and java based open source projects
+- ✨ Contributing to [code-pixelz-media](https://github.com/code-pixelz-media/);
+- :fire: Interested in and Enterprise Solution and Application Software Engineering;
+- :calendar: Looking for contributing to PHP and JAVA based open source projects
 
 #### Bio
 
@@ -48,35 +45,17 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanlama786&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/rajanlama786?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/rajanlama786/cf-stats/main/output/light_card.svg" />
-</p>
-
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajanlama786/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajanlama786/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajanlama786/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajanlama786/1" alt="Latest medium article"> </a>
-
 #### Connect With Me
 
 <p left="center">
 <a href="https://twitter.com/rajanlama786">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/rajanlama786/">
+<a href="https://www.linkedin.com/in/rajan-lama-6b886871/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/rajanlama786">
+<a href="https://www.facebook.com/rajan.lama786/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@rajanlama786">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 <a href="mailto:rajan.lama786@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
