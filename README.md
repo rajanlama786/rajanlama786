@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/rajanlama786/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/6037636/rajan-lama">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6037636?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/rajanlama786/?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rajanlama786?color=green&logo=github">
@@ -48,6 +48,10 @@
 #### Connect With Me
 
 <p left="center">
+<a href="https://profile.wordpress.org/lamarajan">
+  <img src="https://img.shields.io/badge/wordpress-%23000000.svg?&style=for-the-badge&logo=wordpress&logoColor=white" height=25>
+</a>
+
 <a href="https://twitter.com/rajanlama786">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
