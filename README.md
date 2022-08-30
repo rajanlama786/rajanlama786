@@ -1,7 +1,7 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a software engineer working in Lalitpur, Nepal
 
 <p align="left">
-  <a href="https://leetcode.com/rajanlama786/">
+  <a href="https://leetcode.com/user4398as/">
     <img src="https://cp-logo.vercel.app/leetcode/rajanlama786" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/rajanlama786/">
@@ -22,8 +22,8 @@
 #### Now
 
 - ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects
+- :fire: Interested in CRM Software Engineer;
+- :calendar: Looking for contributing to php and java based open source projects
 
 #### Bio
 
