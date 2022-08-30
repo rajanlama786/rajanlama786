@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://rajanlama.com.np">
-    My Website
+    Website
   </a>
   <a href="https://stackoverflow.com/users/6037636/rajan-lama">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6037636?color=orange&label=reputation&logo=stackoverflow">
