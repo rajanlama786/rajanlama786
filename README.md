@@ -34,7 +34,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/php.svg" alt="php"> <img height="48" src="img/java.svg" alt="Java"> <img height="48" src="img/wordpress.svg" alt="WordPress"> <img height="48" src="img/Drupal.svg" alt="Drupal"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/laravel.svg" alt="Laravel"> <img height="48" src="img/flutter.svg" alt="Flutter">
 
 #### Development Stuffs:
 
