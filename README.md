@@ -18,7 +18,7 @@
 
 #### Now
 
-- ✨ Contributing to [code-pixelz-media](https://github.com/code-pixelz-media/);
+- ✨ Contributing to [Fusemachines](https://github.com/Fusemachines/);
 - :fire: Interested in and Enterprise Solution and Application Software Engineering;
 - :calendar: Looking for contributing to PHP and JAVA based open source projects
 
