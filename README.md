@@ -24,10 +24,10 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **CODE PIXELZ MEDIA PVT. LTD.**
+- 🏢 I'm currently working at **FUSEMACHINES PVT. LTD.**
 - ⚙️ I use daily: `.php`, `.js`, `.yml`, `.xml`, `.html`, `.css`, `.sass`, `.ts`,
 - 🌍 I'm mostly active within the **WordPress Community**
-- 🌱 Learning all about **WordPress, Drupal, Laravel, React JS, ES6, Vue JS, Inertia JS, SASS, Gutenberg, Flutter,Java, Springboot, DevOps**, **Php**,
+- 🌱 Learning all about **WordPress VIP, WordPress, Drupal, Laravel, React JS, ES6, Vue JS, Inertia JS, SASS, Gutenberg, Flutter,Java, Springboot, DevOps**, **Php**,
 - 💬 Ping me about **WordPress 4,5,6**, **Drupal 7,8,9**, **Docker**, **React and redux**, **Vue and vuex**,**ES6**,**Inertia**,**SASS**,**Gutenberg**, **Java**, **Springboot**, **Php**,
 - 📫 Reach me: [twitter.com/rajanlama786](https://twitter.com/rajanlama786)
 - 📝 Checkout my [Resume](files/resume.pdf).
