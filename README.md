@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Kathmandu, Nepal
+## Hi 👋, I'm a software engineer working from Kathmandu, Nepal
 
 <p align="left">
   <a href="https://rajanlama.com.np">
