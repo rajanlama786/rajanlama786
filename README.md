@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Lalitpur, Nepal
+## Hi 👋, I'm a software engineer working in Kathmandu, Nepal
 
 <p align="left">
   <a href="https://rajanlama.com.np">
@@ -19,15 +19,15 @@
 #### Now
 
 - ✨ Contributing to [Fusemachines](https://github.com/Fusemachines/);
-- :fire: Interested in and Enterprise Solution and Application Software Engineering;
-- :calendar: Looking for contributing to PHP and JAVA based open source projects
+- :fire: Interested in an Enterprise Solution and Application Software Engineering;
+- :calendar: Looking to contribute to PHP and JAVA-based open-source projects
 
 #### Bio
 
 - 🏢 I'm currently working at **FUSEMACHINES PVT. LTD.**
 - ⚙️ I use daily: `.php`, `.js`, `.yml`, `.xml`, `.html`, `.css`, `.sass`, `.ts`,
 - 🌍 I'm mostly active within the **WordPress Community**
-- 🌱 Learning all about **WordPress VIP, WordPress, Drupal, Laravel, React JS, ES6, Vue JS, Inertia JS, SASS, Gutenberg, Flutter,Java, Springboot, DevOps**, **Php**,
+- 🌱 Learning all about **WordPress VIP, WordPress, Drupal, Laravel, React JS, ES6, Vue JS, Inertia JS, SASS, Gutenberg, Flutter, Java, Springboot, DevOps**, **Php**,
 - 💬 Ping me about **WordPress 4,5,6**, **Drupal 7,8,9**, **Docker**, **React and redux**, **Vue and vuex**,**ES6**,**Inertia**,**SASS**,**Gutenberg**, **Java**, **Springboot**, **Php**,
 - 📫 Reach me: [twitter.com/rajanlama786](https://twitter.com/rajanlama786)
 - 📝 Checkout my [Resume](files/resume.pdf).
@@ -36,7 +36,7 @@
 
 <img height="48" src="img/php.svg" alt="php"> <img height="48" src="img/java.svg" alt="Java"> <img height="48" src="img/wordpress.svg" alt="WordPress"> <img height="48" src="img/drupal.svg" alt="Drupal"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/laravel.svg" alt="Laravel"> <img height="48" src="img/flutter.svg" alt="Flutter">
 
-#### Development Stuffs:
+#### Development Stuff:
 
 <b>⚡ Github Stats</b>
 
